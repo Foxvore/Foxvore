@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a normal person who learns about how to become a great front-end developer...
+Just a normal person who learns about how to become a great front-end developer
 
 
 ## 🌐 Socials:
